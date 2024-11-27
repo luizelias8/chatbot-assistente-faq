@@ -1,0 +1,131 @@
+Pergunta: Como posso abrir uma conta no banco?
+Resposta: Você pode abrir sua conta online através do nosso site ou app, preenchendo o formulário e enviando seus documentos de identificação.
+
+Pergunta: Quais são os requisitos para abrir uma conta?
+Resposta: Para abrir uma conta, você precisa ter mais de 18 anos, um CPF válido e um comprovante de residência recente.
+
+Pergunta: Como posso consultar meu saldo?
+Resposta: Você pode consultar seu saldo a qualquer momento pelo nosso aplicativo, no internet banking ou através de um caixa eletrônico.
+
+Pergunta: Como posso realizar transferências para outros bancos?
+Resposta: Você pode realizar transferências via TED ou DOC diretamente pelo aplicativo, internet banking ou caixa eletrônico.
+
+Pergunta: Quais são as taxas para transferências entre bancos?
+Resposta: As transferências entre bancos são realizadas sem custo através do sistema TED para valores acima de R$ 1.000,00. Para valores abaixo, a tarifa padrão pode ser cobrada.
+
+Pergunta: Como posso desbloquear meu cartão?
+Resposta: Caso seu cartão tenha sido bloqueado, você pode desbloqueá-lo diretamente pelo nosso aplicativo, ou entrando em contato com a central de atendimento.
+
+Pergunta: Posso solicitar um cartão adicional?
+Resposta: Sim, você pode solicitar um cartão adicional através do nosso aplicativo, e o limite será compartilhado entre os cartões.
+
+Pergunta: Como faço para alterar minha senha de acesso ao aplicativo?
+Resposta: Para alterar sua senha, acesse as configurações de segurança no aplicativo e escolha a opção 'Alterar Senha'.
+
+Pergunta: O que fazer se eu esquecer minha senha de acesso?
+Resposta: Caso você tenha esquecido sua senha, clique na opção 'Esqueci minha senha' na tela de login e siga as instruções para recuperá-la.
+
+Pergunta: Como posso consultar o extrato da minha conta?
+Resposta: Você pode acessar seu extrato completo no aplicativo, tanto para o mês atual quanto para os meses anteriores.
+
+Pergunta: Quais são os limites de pagamento por transferência?
+Resposta: Os limites de pagamento podem variar de acordo com o tipo de conta. Confira os limites em sua conta no aplicativo ou entre em contato com a nossa central de atendimento.
+
+Pergunta: Como posso aumentar meu limite de crédito?
+Resposta: Você pode solicitar o aumento de limite através do nosso aplicativo, enviando a documentação necessária para análise.
+
+Pergunta: Posso usar meu cartão em outros países?
+Resposta: Sim, nosso cartão de débito e crédito pode ser usado internacionalmente, basta ativá-lo para compras no exterior através do aplicativo.
+
+Pergunta: Como posso bloquear meu cartão em caso de perda ou roubo?
+Resposta: Se seu cartão for perdido ou roubado, você pode bloqueá-lo imediatamente pelo aplicativo ou entrando em contato com a central de atendimento.
+
+Pergunta: Quais são os benefícios de ser um cliente premium?
+Resposta: Clientes premium têm acesso a vantagens exclusivas, como taxas menores em empréstimos, limite de crédito maior e atendimento prioritário.
+
+Pergunta: Como posso solicitar um empréstimo pessoal?
+Resposta: Você pode solicitar um empréstimo pessoal diretamente pelo aplicativo, onde será necessário preencher um formulário e aguardar a análise de crédito.
+
+Pergunta: Quais são as taxas de juros para empréstimos pessoais?
+Resposta: As taxas de juros para empréstimos pessoais variam de acordo com o seu perfil de crédito. Consulte a taxa disponível para você no aplicativo.
+
+Pergunta: Como posso consultar o meu limite de crédito?
+Resposta: Você pode consultar seu limite de crédito a qualquer momento pelo nosso aplicativo ou internet banking.
+
+Pergunta: Como funciona o programa de recompensas do banco?
+Resposta: Nosso programa de recompensas permite acumular pontos a cada compra realizada com seu cartão, que podem ser trocados por descontos, produtos e serviços.
+
+Pergunta: Quais documentos são necessários para solicitar um financiamento imobiliário?
+Resposta: Para solicitar um financiamento imobiliário, é necessário apresentar documentos como RG, CPF, comprovante de residência e comprovante de renda.
+
+Pergunta: Como posso acompanhar o andamento do meu financiamento?
+Resposta: Você pode acompanhar o andamento do seu financiamento diretamente pelo nosso aplicativo ou entrando em contato com a central de atendimento.
+
+Pergunta: Posso fazer o pagamento de boletos pelo aplicativo?
+Resposta: Sim, você pode pagar boletos de qualquer valor diretamente pelo aplicativo, basta escanear o código de barras ou digitar os dados.
+
+Pergunta: Como posso cancelar uma transação?
+Resposta: Caso precise cancelar uma transação, você pode fazer isso se a operação não tiver sido finalizada. Caso já tenha sido concluída, entre em contato com a central de atendimento.
+
+Pergunta: Quais são os limites diários de saque em caixa eletrônico?
+Resposta: Os limites de saque variam conforme o seu perfil e tipo de conta. Consulte seus limites no aplicativo ou nos caixas eletrônicos disponíveis.
+
+Pergunta: Como posso alterar minha data de vencimento da fatura do cartão de crédito?
+Resposta: Você pode alterar a data de vencimento da sua fatura diretamente no aplicativo, em 'Configurações de pagamento'.
+
+Pergunta: O que é a conta salário?
+Resposta: A conta salário é uma conta sem tarifas mensais, ideal para recebimento de salários, pensões ou aposentadorias.
+
+Pergunta: Posso solicitar um cartão de crédito sem anuidade?
+Resposta: Sim, oferecemos cartões de crédito sem anuidade. Verifique os requisitos e benefícios no aplicativo.
+
+Pergunta: Quais são as opções de investimentos que o banco oferece?
+Resposta: Oferecemos opções de investimento como CDB, LCI, fundos de investimento e ações. Consulte no aplicativo as melhores opções para você.
+
+Pergunta: O que é um cartão virtual e como usá-lo?
+Resposta: O cartão virtual é uma versão temporária do seu cartão, gerado para compras online com mais segurança. Você pode gerá-lo pelo aplicativo.
+
+Pergunta: Como posso obter um comprovante de pagamento de minha fatura?
+Resposta: Você pode obter o comprovante de pagamento da sua fatura diretamente pelo aplicativo ou internet banking.
+
+Pergunta: Quais são os critérios para aprovação de um empréstimo pessoal?
+Resposta: A aprovação depende da análise de crédito, onde são verificados seu histórico de pagamento, capacidade de pagamento e outros fatores.
+
+Pergunta: Posso adicionar meu cartão de crédito no Google Pay ou Apple Pay?
+Resposta: Sim, você pode adicionar seu cartão de crédito nas plataformas de pagamento digital Google Pay ou Apple Pay através do aplicativo.
+
+Pergunta: O que fazer se meu pagamento não foi processado corretamente?
+Resposta: Caso seu pagamento não tenha sido processado, entre em contato com nossa central de atendimento para verificar o que ocorreu.
+
+Pergunta: Como posso alterar o endereço cadastrado no banco?
+Resposta: Para alterar seu endereço, acesse o aplicativo, vá até as configurações de conta e atualize seu endereço de correspondência.
+
+Pergunta: Qual a diferença entre o saldo disponível e o saldo total da minha conta?
+Resposta: O saldo disponível é o valor que você pode gastar ou transferir, enquanto o saldo total inclui valores pendentes ou bloqueados.
+
+Pergunta: Como faço para adicionar uma conta bancária à minha conta?
+Resposta: Você pode adicionar uma conta bancária para transferências ou depósitos no aplicativo, na seção 'Contas Bancárias'.
+
+Pergunta: Posso pagar minhas contas diretamente pelo aplicativo?
+Resposta: Sim, você pode pagar contas de água, luz, telefone e outros serviços diretamente pelo aplicativo.
+
+Pergunta: Como posso obter um extrato de rendimentos do meu investimento?
+Resposta: Você pode obter o extrato de rendimentos dos seus investimentos no aplicativo, acessando a seção 'Investimentos'.
+
+Pergunta: Posso cancelar minha conta bancária?
+Resposta: Sim, você pode cancelar sua conta bancária entrando em contato com a central de atendimento ou via aplicativo.
+
+Pergunta: Qual a diferença entre conta corrente e conta poupança?
+Resposta: A conta corrente permite movimentações constantes e maiores facilidades de crédito, enquanto a conta poupança é mais indicada para guardar dinheiro e gerar rendimentos.
+
+Pergunta: Como posso configurar notificações de transações no meu aplicativo?
+Resposta: Você pode configurar notificações de transações na seção de 'Notificações' do aplicativo, escolhendo os tipos de alertas que deseja receber.
+
+Pergunta: Qual a política de segurança do banco para proteger meus dados?
+Resposta: Nosso banco adota criptografia avançada, autenticação em duas etapas e outras medidas de segurança para proteger suas informações.
+
+Pergunta: Quais são as tarifas para serviços de cartão de crédito?
+Resposta: As tarifas de cartão de crédito variam dependendo do seu tipo de cartão. Você pode consultar as tarifas detalhadas no aplicativo.
+
+Pergunta: Como posso simular um empréstimo pessoal antes de solicitar?
+Resposta: Você pode simular um empréstimo pessoal diretamente no aplicativo, inserindo o valor desejado e o prazo de pagamento.
